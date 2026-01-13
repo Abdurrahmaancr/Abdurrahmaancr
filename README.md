@@ -1,20 +1,74 @@
-![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Abdurrahman%20Çeri&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI-Augmented%20Software%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Abdurrahman Çeri</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3595F7&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer;Building+with+Next.js+%26+Flutter;Empowered+by+Artificial+Intelligence;Based+in+Gaziantep,+Turkey" alt="Typing SVG" />
+    </a>
+  </h3>
 
+  <p>
+     <em>"Kod yazmak sanat, Yapay Zeka ise fırçamdır."</em>
+  </p>
 
-- 🌱 I’m currently learning **Python, ReactNative**
+  <a href="https://linkedin.com/in/abdurrahman-çeri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abdurrahmaancr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:abdurrahmaanceri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 📫 How to reach me **abdurrahmaanceri@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdurrahman çeri̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman çeri̇" height="30" width="40" /></a>
-<a href="https://instagram.com/abdurrahmaancr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurrahmaancr" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🚀 Hakkımda (About Me)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmaancr&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmaancr" /> </p>
+Merhaba! Ben **Abdurrahman**. Gaziantep'te yaşayan, modern teknolojileri ve yapay zeka araçlarını iş akışına entegre eden bir yazılım geliştiricisiyim. Klasik kodlamanın ötesine geçerek, **AI destekli (Cursor, Gemini, GPT)** geliştirme süreçleri ile hızlı, ölçeklenebilir ve temiz kod yazmaya odaklanıyorum.
+
+- 🔭 Şu an **Flutter & Next.js** ile modern uygulamalar geliştiriyorum.
+- 🌱 **Siber Güvenlik** ve **Yapay Zeka** entegrasyonları üzerine çalışıyorum.
+- ⚡ **Süper Gücüm:** AI araçlarını kullanarak geliştirme sürecini 10x hızlandırmak.
+
+---
+
+### 🛠️ Teknoloji Yığınım (Tech Stack)
+
+<div align="center">
+
+  <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+  <h4>Frameworks & Libraries</h4>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <h4>AI & Tools (My Daily Drivers)</h4>
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+</div>
+
+<br />
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmaancr&show_icons=true&theme=transparent&hide_border=true&locale=tr" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmaancr&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurrahmaancr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abdurrahmaancr" />
+</div>
