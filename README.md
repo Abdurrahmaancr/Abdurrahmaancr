@@ -9,13 +9,17 @@
   </h3>
 
   <p>
-     <em>"Kod yazmak sanat, Yapay Zeka ise fırçamdır."</em>
+      <em>"Kod yazmak sanat, Yapay Zeka ise fırçamdır."</em>
   </p>
 
-  <a href="www.linkedin.com/in/abdurrahmanceri" target="_blank">
+  <a href="https://www.linkedin.com/in/abdurrahmanceri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:abdurrahmaancerii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.webmagazan.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Webmagazan-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
 </div>
@@ -27,8 +31,19 @@
 Merhaba! Ben **Abdurrahman**. Gaziantep'te yaşayan, modern teknolojileri ve yapay zeka araçlarını iş akışına entegre eden bir yazılım geliştiricisiyim. Klasik kodlamanın ötesine geçerek, **AI destekli (Cursor, Gemini, GPT)** geliştirme süreçleri ile hızlı, ölçeklenebilir ve temiz kod yazmaya odaklanıyorum.
 
 - 🔭 Şu an **Flutter & Next.js** ile modern uygulamalar geliştiriyorum.
+- 💼 **Webmagazan.com** üzerinden kurumsal web çözümleri sunuyorum.
 - 🌱 **Siber Güvenlik** ve **Yapay Zeka** entegrasyonları üzerine çalışıyorum.
 - ⚡ **Süper Gücüm:** AI araçlarını kullanarak geliştirme sürecini 10x hızlandırmak.
+
+---
+
+### 💻 Proje Vitrini (Project Showcase)
+
+| Proje Adı | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **Webmagazan** | İşletmeler için geliştirdiğim dijital çözüm platformu ve portfolyo sitem. | Next.js, React |
+| **MotiveX** | *(Geliştirme Aşamasında)* Odaklanma, yapılacaklar listesi ve motivasyon uygulaması. | Flutter, Dart |
+| **QR Menu** | Restoranlar için dijital menü altyapısı. | React Native |
 
 ---
 
